@@ -1,0 +1,72 @@
+body {
+  background-image: url(https://www.toptal.com/designers/subtlepatterns/patterns/y-so-serious.png);
+  font-family: "Karla", sans-serif;
+}
+
+section {
+  background-color: white;
+  margin-top: 150px;
+  max-width: 500px;
+  padding: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 5px;
+  -webkit-box-shadow: 3px 4px 9px 0px rgba(0, 0, 0, 0.91);
+  box-shadow: 3px 4px 9px 0px rgba(0, 0, 0, 0.91);
+}
+
+section h1 {
+  font-size: 25px;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+header {
+  background-image: url(https://media.giphy.com/media/12ff3xtgtoa6o8/giphy.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  max-height: 80px;
+  border-radius: 5px;
+}
+
+.social-icons {
+  margin-bottom: 20px;
+  text-align: center;
+}
+.icon {
+  font-size: 24px;
+  margin-right: 10px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 100%;
+  width: 150px;
+  height: 150px;
+  transform: translateY(-75px);
+  border: 5px solid white;
+}
+.insignias {
+  padding: 15px;
+  border: 2px solid black;
+  border-radius: 5px;
+}
+
+.insignias h2 {
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:visited {
+  color: black;
+}
+
+a:hover {
+  text-decoration: underline;
+}
